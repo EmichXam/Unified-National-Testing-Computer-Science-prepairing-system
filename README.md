@@ -2,7 +2,7 @@
 ### Реляционное ядро системы подготовки к ЕНТ 2025
 
 [![GitHub stars](https://img.shields.io/github/stars/EmichXam/Unified-National-Testing-Computer-Science-prepairing-system?style=for-the-badge&color=gold)](https://github.com/EmichXam/Unified-National-Testing-Computer-Science-prepairing-system/stargazers)
-[![SQL Foundation](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=postgresql)](https://github.com/EmichXam/Unified-National-Testing-Computer-Science-prepairing-system)
+[![Python DJANGO Foundation](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=postgresql)](https://github.com/EmichXam/Unified-National-Testing-Computer-Science-prepairing-system)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 **Первый в Казахстане Open-Source проект базы знаний для ЕНТ.** Это не просто список вопросов, а спроектированная база данных, готовая к интеграции в любое веб-приложение или мобильный сервис.
